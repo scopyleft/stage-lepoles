@@ -1,23 +1,38 @@
+# Liste de sujets possible
 
+## ECD Sartrouville
 
-- Passer le site de ECD en statique
+Le site de l'association ECD de startrouville est aujourd'hui en wordpress. L'ajout et modification d'article est devenue impossible sur un ordinateur, et n'est accessible que par mobile. Ce n'est pas très pratique.
+
+Une solution serait de le changer pour utiliser un générateur de site statique.
+
 http://ecd-sartrouville.fr/
 
-- Ada Tech School https://ada-school.com/
+## Ada Tech School
 
-- Refaire le site de l'ONISEP en mieux (site statique) (en recupérant les données) http://www.onisep.fr/
+Le site d'Ada Tech School est réalisé avec Squarespace. Pas toujours très pratique pour https://ada-school.com/
 
+
+## Onisep
+
+Refaire le site de l'ONISEP en mieux (site statique) (en recupérant les données) http://www.onisep.fr/
+
+
+## Framadate
 
 - continuer le nouveau Framadate (https://framadate.org/) : funky framdate (https://funky.framadate.org/) . Le code source https://framagit.org/framasoft/framadate/funky-framadate-front
 
-- KODesmots https://github.com/Rookie-Club/kodesmots
+
+## KODesMots
+
+Outils permettant de faire de l'improvisation écrite. Indispensable pour les spectacles, l'outils souffre de quelques bugs et demande d'améliorations diverses.
+
+KODesmots https://github.com/Rookie-Club/kodesmots
+
+
+## Exercices de programmation Rookie Club
 
 - Exercices de programmation sur le rookie club (projet euler, kata, interview recrutement, ...) https://github.com/rookie-club
 
-
-Liste d'outils pour site statique https://www.staticgen.com/
-
-Les pages hébergé par github https://pages.github.com/
-La même chose sur gitlab https://docs.gitlab.com/ee/user/project/pages/
 
 
