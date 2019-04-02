@@ -3,13 +3,15 @@
 3. beta.gouv.fr Ségur
 4. LePoleS Poissy
 5. LePoleS Poissy
-
+6. week-end
+7. week-end
 8. boutique /ut7
 9. station F matin et boutique /ut7 après midi
 10. LePolesS Poissy
 11. LePoleS Poissy
 12. station F matin et après midi boutique
-
+13. week-end
+14. week-end
 15. boutique /ut7
 16. station F matin et boutique /ut7 après midi
 17. LePoleS Poissy
