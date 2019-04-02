@@ -1,6 +1,6 @@
 - 1er matin ministère de l'éducation nationale, après midi à la boutique /ut7
 - 2 boutique /ut7
-- 3 LePoleS Poissy
+- 3 beta.gouv.fr Ségur
 - 4 LePoleS Poissy
 - 5 LePoleS Poissy
 
