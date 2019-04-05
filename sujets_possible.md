@@ -40,6 +40,7 @@ KODesmots https://github.com/Rookie-Club/kodesmots
 ## Exercices de programmation Rookie Club
 
 - Exercices de programmation sur le rookie club (projet euler, kata, interview recrutement, ...) https://github.com/rookie-club
+Et le forum du rookie club https://rookieclub.org
 
 
 
