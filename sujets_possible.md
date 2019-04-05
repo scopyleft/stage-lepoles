@@ -2,7 +2,7 @@
 
 ## ECD Sartrouville
 
-Le site de l'association ECD de startrouville est aujourd'hui en wordpress. L'ajout et modification d'article est devenue impossible sur un ordinateur, et n'est accessible que par mobile. Ce n'est pas très pratique.
+Le site de l'association ECD de sartrouville est aujourd'hui en wordpress. L'ajout et modification d'article est devenue impossible sur un ordinateur, et n'est accessible que par mobile. Ce n'est pas très pratique.
 
 Une solution serait de le changer pour utiliser un générateur de site statique.
 
