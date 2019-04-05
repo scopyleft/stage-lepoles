@@ -5,7 +5,7 @@
 5. LePoleS Poissy
 6. _week-end_
 7. _week-end_
-8. LePoleS Poissy ?
+8. LePoleS Poissy (avec Yannick ou pas ?)
 9. LePoleS Poissy ou boutique /ut7
 10. LePoleS Poissy visite à ECD ?
 11. LePoleS Poissy
