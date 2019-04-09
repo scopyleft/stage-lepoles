@@ -5,18 +5,18 @@
 5. LePoleS Poissy
 6. _week-end_
 7. _week-end_
-8. LePoleS Poissy (avec Yannick ou pas ?)
-9. LePoleS Poissy ou boutique /ut7
+8. LePoleS Poissy
+9. LePoleS Poissy
 10. LePoleS Poissy visite à ECD ?
 11. LePoleS Poissy
 12. station F matin et après midi boutique
 13. _week-end_
 14. _week-end_
-15. boutique /ut7
+15. LePoleS Poissy
 16. station F matin et boutique /ut7 après midi
-17. LePoleS Poissy visite à ECD ?
+17. LePoleS Poissy
 18. LePoleS Poissy
-19. station F matin et boutique /ut7 après midi
+19. LePoleS Poissy
 
 Du 22 au 30 LePoleS Poissy.
 
