@@ -13,7 +13,7 @@
 13. _week-end_
 14. _week-end_
 15. LePoleS Poissy
-16. station F matin et boutique /ut7 après midi
+16. LePoleS Poissy
 17. LePoleS Poissy
 18. LePoleS Poissy
 19. LePoleS Poissy
