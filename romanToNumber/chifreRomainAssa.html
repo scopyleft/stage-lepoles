@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Bonjour</title>
+	<meta charset="UTF-8">
+</head>
+
+<body>
+	<h1>Bonjour</h1>
+	<p>Ce matin, le sujet de l'exercice : faire un outil permettant de traduire un nombre romain en nombre arabe.
+
+		Exemple d'attendue :</p>
+	<ul>
+
+		<li>I en entrée donnerais 1 en sortie</li>
+		<li>IX en entrée donnerais 9 en sortie</li>
+		<li>Choisir la façon la plus simple de le mettre en oeuvre vu le peut de temps imparti (la matinée).</li>
+
+		<li>Écrire ici un journal (chacun le sien ?) en fin de matinée (avant d'aller manger)</li>
+
+		<li>Après manger, vous pouvez continuer cette exerice pour le faire dans le sens inverse (des nombres arabes
+			vers romains)</li>
+
+	</ul>
+
+	<form>
+
+		<label for="chiffre">Entrer un chiffre Romain ou Arabe :</label>
+		<input type='text' name='nombre'>
+		<br><br>
+		<input type='button' value='Nombre Arabe'
+			onClick='document.forms[0].result.value=ArabeRomain(document.forms[0].nombre.value);'>
+		ou
+		<input type='button' value='Nombre Romain'
+			onClick='document.forms[0].result.value=RomainArabe(document.forms[0].nombre.value);'>
+
+		<br><br>
+		<label for="resultat">Résultat : </label>
+		<input type='text' name='result'>
+	</form>
+
+	<script language='javascript'>
+
+
+		// Converti des entiers en romains
+		function ArabeRomain(num) {
+			var chf = new Array();
+			var arb = num + "";
+			var longueur = arb.length;
+			// Sortie de la func si erreur
+			if (!(num < 3999 && num > 0)) {
+				return 'Erreur!! indique un chiffre Arabe';
+			};
+			// Construction du tab
+			for (i = longueur - 1; i >= 0; i--) {
+				chf[i] = arb.charAt(i);
+				if (i == longueur - 1) {
+					if (chf[i] == 0) chf[i] = "";
+					if (chf[i] == 1) chf[i] = "I";
+					if (chf[i] == 2) chf[i] = "II";
+					if (chf[i] == 3) chf[i] = "III";
+					if (chf[i] == 4) chf[i] = "IV";
+					if (chf[i] == 5) chf[i] = "V";
+					if (chf[i] == 6) chf[i] = "VI";
+					if (chf[i] == 7) chf[i] = "VII";
+					if (chf[i] == 8) chf[i] = "VIII";
+					if (chf[i] == 9) chf[i] = "IX";
+				} else if (i == longueur - 2) {
+					if (chf[i] == 0) chf[i] = "";
+					if (chf[i] == 1) chf[i] = "X";
+					if (chf[i] == 2) chf[i] = "XX";
+					if (chf[i] == 3) chf[i] = "XXX";
+					if (chf[i] == 4) chf[i] = "XL";
+					if (chf[i] == 5) chf[i] = "L";
+					if (chf[i] == 6) chf[i] = "LX";
+					if (chf[i] == 7) chf[i] = "LXX";
+					if (chf[i] == 8) chf[i] = "LXXX";
+					if (chf[i] == 9) chf[i] = "XC";
+				} else if (i == longueur - 3) {
+					if (chf[i] == 0) chf[i] = "";
+					if (chf[i] == 1) chf[i] = "C";
+					if (chf[i] == 2) chf[i] = "CC";
+					if (chf[i] == 3) chf[i] = "CCC";
+					if (chf[i] == 4) chf[i] = "CD";
+					if (chf[i] == 5) chf[i] = "D";
+					if (chf[i] == 6) chf[i] = "DC";
+					if (chf[i] == 7) chf[i] = "DCC";
+					if (chf[i] == 8) chf[i] = "DCCC";
+					if (chf[i] == 9) chf[i] = "CM";
+				} else if (i == longueur - 4) {
+					if (chf[i] == 0) chf[i] = "";
+					if (chf[i] == 1) chf[i] = "M";
+					if (chf[i] == 2) chf[i] = "MM";
+					if (chf[i] == 3) chf[i] = "MMM";
+				};
+			}
+			return (chf.join(""));
+		}
+		// Converti chiffres romains en entiers
+		function RomainArabe(romain) {
+			romain += "";
+			romain = romain.toUpperCase();
+			for (choix = 1; choix < 4000; choix++) {
+				if (romain == ArabeRomain(choix)) return choix;
+			}
+			return 'Erreur!! indique un chiffre Romain';
+
+		}
+	</script>
+
+
+</body>
+
+</html>
