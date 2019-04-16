@@ -100,7 +100,6 @@
 		// Converti chiffres romains en entiers
 		function RomainArabe(romain) {
 			romain += "";
-			romain = romain.toUpperCase();
 			for (choix = 1; choix < 4000; choix++) {
 				if (romain == ArabeRomain(choix)) return choix;
 			}
