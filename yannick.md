@@ -38,3 +38,5 @@ journal commun ? Demain, ça va être dur d'esayer, je ne serais pas dispo à
 16h30. Peut-être une première version le midi avant de partir ?
 
 A suivre.
+
+## Mercredi 17
