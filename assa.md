@@ -23,4 +23,15 @@ Ajourd'hui j'ai commencer l'exercice louer un avion et gagnier de l'argent mais 
   
   
 ## 17 avril
+  - Revision et appentissage de nouvelles commandes Git,
+  J'ai appris a quoi servent vraiment les commandes git car j'utilise seulement (git init,git add, git commit, git push) sans vraiment savoir les différentes fonctionnalités, 
+  aujourd'hui j'y vois plus clair et j'ai appris (git Rebase / Merge qui servent "pour les modifications sur un même dossier), (git Clone "recuperer un dossier existant"(à mieux l'utiliser)) ...
+  Maintenant je sais ou interviennent les commandes exemple entre:
+  - Le __Repertoire de travail__ et le __.git__ (Merge, Rebase...)
+  - Le __Repertoire de travail__ et __l'index 'prepa au commit'__ (Commit, Add...)
+  - Le __.git__ et __Les autres machines__ (Pull, Push, Fetch, Clone...)
+  - __Autour du git__ (Status, Log...)
+  - __Autre__ (Remote, Init, Config... )
+
+
   
