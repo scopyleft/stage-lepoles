@@ -71,3 +71,21 @@ elleux sur un mode formation.
 Illes bossent beaucoup sur leur site. Je crois qu'illes devraient plutôt
 préparer un bête CV et commencer à postuler pour s'entrainer. Il faudrait que
 je propose des exercices qu'on demande en entretien...
+
+
+## Jeudi 18
+
+Timing trop serré pour faire un point ce matin; on fait une discussion après
+manger.
+
+On évoque les difficultés du moment; puis on parle de deux points :
+
+- les accompagner dans la réalisation de leur site portefolio, qui va
+  apparement servir à les évaluer
+- Commencer à postuler pour apprendre à le faire, et savoir sur quel point
+  travailler
+
+Assa à compris comment pousser sur Git, mais je n'ai pas encore vu de commit
+d'Yvette, et Anas à tenté un truc qui n'a pas marché. C'est un bon début, mais
+iil y a encore à faire (ou à me montrer :D)
+
