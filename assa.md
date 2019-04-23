@@ -34,4 +34,17 @@ Ajourd'hui j'ai commencer l'exercice louer un avion et gagnier de l'argent mais 
   - __Autre__ (Remote, Init, Config... )
 
 
-  
+## 18 avril
+[Lien vers mon github (site Portfolio)](https://github.com/TraoreAssa/site)!
+Un retour sur mon site, j'ai reussi a faire la securité des formulaires de mon site mais je n'ai toujours pas réussi pour les apostrophes (mon formulaire n'enregistre rien quand il y a un apostrophes dans une phrase).
+En debut d'apres-midi nous (Anas, Yvette et moi) avons reflechi a un projet que nous pourrions mettre en place et qui pourra servir à plusieurs personnes, nous reflechissions chaqu'un de notre coté avant de le mettre en pratique.
+
+
+## 19 avril
+Je cherche la solution pour que mon formulaire accepte les apostrophes et enfin termimer mon site.
+
+J'AI REUSSI :) la fonction addslashes() sert a mettre des \ apres les apostrophes... il faut la mettre avant l'insertion a la BDD et stripslashes() a ne pas les afficher a mettre sur la page qui affichera le texte.
+
+
+## 23 avril
+ 
