@@ -18,5 +18,5 @@ mais lors du deploiment mon serveurs et sous __linux__ les hypothèses des bug s
 
 - __linux__ fait la difference entre la majuscule et la miniscule au debut du nom d'un dossier
 
-- __le serveur__ tolere que peu voir auccune erreure
+- __le serveur__ tolere que peu voir auccune erreur
 
