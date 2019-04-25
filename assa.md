@@ -41,10 +41,21 @@ En debut d'apres-midi nous (Anas, Yvette et moi) avons reflechi a un projet que 
 
 
 ## 19 avril
-Je cherche la solution pour que mon formulaire accepte les apostrophes et enfin termimer mon site.
+Je cherche la solution pour que mon formulaire accepte les apostrophes et enfin presque termimer mon site.
 
 J'AI REUSSI :) la fonction addslashes() sert a mettre des \ apres les apostrophes... il faut la mettre avant l'insertion a la BDD et stripslashes() a ne pas les afficher a mettre sur la page qui affichera le texte.
 
 
 ## 23 avril
+J'ai travailler sur le formulaire de contact (que j'avais oublié), etant donné que mon site n'est pas encore en ligne je ne peux pas le tester(et j'hesite a le faire en ajax ou en php) a terminer!
+
+
+## 24 avril
+J'ai passé la journée a rendre mon code plus propre et conpréhensible (commentaires, saut de ligne ...) 
+
+
+## 25 avril
+j'essaye d'ajouter des petites annimations a mon site car je le trouve tres simple,
+et de terminer le formulaire de contact. 
+
  
