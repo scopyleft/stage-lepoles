@@ -40,3 +40,52 @@ journal commun ? Demain, ça va être dur d'esayer, je ne serais pas dispo à
 A suivre.
 
 ## Mercredi 17
+
+Je passe au PoleS ce matin. Sympa de croiser Houda. Un jour j'aimerais bien
+prendre le temps de discuter pédago avec Idir, Houda et les autres personnes en
+charges de formation au PoleS.
+
+Disucssion autour du journal. Yvette semble déjà le faire, mais en mode privée.
+Je comprend et c'est ok pour moi. Ça me renforce un peu dans l'idée d'en faire
+un commun. Mais comment faire quand on ne passe pas les journées ensemble ? En
+fait un par semaine ? Prendre une heure le vendredi pour écrire un journal
+commun ?
+
+On discute de Git. Je suis un peu trop dans les explications, pas assez dans
+les manipulations participatives. J'aime bien faire le schéma qui montre les
+différentes partie où s'execute les commandes, j'aime bien raconter l'histoire
+des gestionnaires de version.
+
+A noter pour plus tard :
+- commencer par l'histoire (peut-être le faire faire par les personnes
+  apprenantes ?)
+- Faire lister les commandes existantes par les personnes apprenantes
+- Dessiner la représentation répertoire de travail - repo git local - repos git
+  distant. Peut-être pas la peine de faire apparaitre l'index.
+- raconter une histoire de participation à un projet en faisant manipuler les
+  personnes.
+
+C'était encore un peu court, mais finalement, je suis content d'intéragigr avec
+elleux sur un mode formation.
+
+Illes bossent beaucoup sur leur site. Je crois qu'illes devraient plutôt
+préparer un bête CV et commencer à postuler pour s'entrainer. Il faudrait que
+je propose des exercices qu'on demande en entretien...
+
+
+## Jeudi 18
+
+Timing trop serré pour faire un point ce matin; on fait une discussion après
+manger.
+
+On évoque les difficultés du moment; puis on parle de deux points :
+
+- les accompagner dans la réalisation de leur site portefolio, qui va
+  apparement servir à les évaluer
+- Commencer à postuler pour apprendre à le faire, et savoir sur quel point
+  travailler
+
+Assa à compris comment pousser sur Git, mais je n'ai pas encore vu de commit
+d'Yvette, et Anas à tenté un truc qui n'a pas marché. C'est un bon début, mais
+iil y a encore à faire (ou à me montrer :D)
+
