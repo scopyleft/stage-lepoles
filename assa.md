@@ -51,11 +51,14 @@ J'ai travailler sur le formulaire de contact (que j'avais oublié), etant donné
 
 
 ## 24 avril
-J'ai passé la journée a rendre mon code plus propre et conpréhensible (commentaires, saut de ligne ...) 
+J'ai passé la journée a rendre mon code plus propre et compréhensible (commentaires, saut de ligne ...) 
 
 
 ## 25 avril
 j'essaye d'ajouter des petites annimations a mon site car je le trouve tres simple,
-et de terminer le formulaire de contact. 
+et je voulais terminer le formulaire de contact. 
+
+## 26 avril
+
 
  
