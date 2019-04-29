@@ -55,10 +55,9 @@ J'ai passé la journée a rendre mon code plus propre et compréhensible (commen
 
 
 ## 25 avril
-j'essaye d'ajouter des petites annimations a mon site car je le trouve tres simple,
+J'essaye d'ajouter des petites annimations a mon site car je le trouve tres simple,
 et je voulais terminer le formulaire de contact. 
 
-## 26 avril
-
-
+## 29 avril
+Je finis les petits (gros) détails de mon portFolio pour pouvoir le mettre en ligne et le terminer definitivement.
  
